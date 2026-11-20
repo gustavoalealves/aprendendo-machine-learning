@@ -29,7 +29,7 @@ Projeto introdutório de classificação utilizando o algoritmo K-Nearest Neighb
 
 O modelo alcançou uma acurácia de **73,33%** sobre os dados de teste.
 
-Este projeto possui finalidade exclusivamente educacional, com o objetivo de explorar conceitos básicos de Machine Learning. O modelo não deve ser utilizado para diagnósticos médicos.
+Este projeto possui finalidade exclusivamente educacional, com o objetivo de explorar conceitos básicos de Machine Learning.
 
 ## Estrutura do repositório
 
