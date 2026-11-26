@@ -6,7 +6,7 @@ O objetivo é documentar minha evolução por meio de projetos práticos, explor
 
 ## Projetos
 
-### 02 - Classificação de Diabetes com K-Nearest Neighbors (KNN)
+### 01 - Classificação de Diabetes com K-Nearest Neighbors (KNN)
 
 Projeto introdutório de classificação utilizando o algoritmo K-Nearest Neighbors (KNN) para prever diagnósticos de diabetes com base em duas características:
 
